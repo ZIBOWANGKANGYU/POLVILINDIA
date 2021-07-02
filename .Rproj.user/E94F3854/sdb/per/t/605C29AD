@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "# scraping websites\nlibrary(\"XML\", lib.loc=\"~/R/win-library/3.4\")\nlibrary(\"rvest\", lib.loc=\"~/R/win-library/3.4\")\n\n# UP, Agra\nwebpage <- read_html(\"http://results.eci.gov.in/pc/en/constituencywise/ConstituencywiseS2418.htm?ac=18\")\n",
+    "created" : 1560619595196.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "748098495",
+    "id" : "605C29AD",
+    "lastKnownWriteTime" : 1560626015,
+    "last_content_update" : 1560626015487,
+    "path" : "C:/Users/kangyuwang/OneDrive/ucsd research/political violence in India/scraping.R",
+    "project_path" : "scraping.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
